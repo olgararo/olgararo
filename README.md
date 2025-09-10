@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+💻 Soy Desarrolladora Web en formación en Factoría F5, actualmente en un bootcamp intensivo donde estoy aprendiendo HTML, CSS, JavaScript, React, Node.js y bases de datos.
+
+🔍 Me interesa especialmente el desarrollo Frontend y cómo combinar la tecnología con la creatividad para construir experiencias web accesibles, usables y visualmente atractivas.
+
+✨ Antes de lanzarme al mundo tech, trabajé en proyectos internacionales de consultoría, marketing digital y soporte técnico, lo que me dio experiencia en la resolución de problemas, trabajo en equipo y comunicación.
+
+🌱 Ahora estoy dando el salto hacia la programación, aplicando esa experiencia a proyectos web colaborativos.
+
 <!--
 **olgararo/olgararo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
