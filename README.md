@@ -1,13 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&pause=1000&color=C778F7&width=435&height=60&lines=Hello%2C+it's+me...+%F0%9F%98%8A;Hola!+++%F0%9F%91%8B+)](https://git.io/typing-svg)
 
 # 💫 About Me:
-💻 Soy Desarrolladora Web en formación en Factoría F5, actualmente en un bootcamp intensivo donde estoy aprendiendo HTML, CSS, JavaScript, React, Node.js y bases de datos.
+💻 Soy Desarrolladora Web en formación en Factoría F5, actualmente en un bootcamp intensivo donde estoy aprendiendo **HTML, CSS, JavaScript, React, Node.js y bases de datos**.
 
 🔍 Me interesa especialmente el desarrollo Frontend y cómo combinar la tecnología con la creatividad para construir experiencias web accesibles, usables y visualmente atractivas.
 
-✨ Antes de lanzarme al mundo tech, trabajé en proyectos internacionales de consultoría, marketing digital y soporte técnico, lo que me dio experiencia en la resolución de problemas, trabajo en equipo y comunicación.<br>🌱 Ahora estoy dando el salto hacia la programación, aplicando esa experiencia a proyectos web colaborativos.
+✨ Antes de lanzarme al mundo tech, trabajé en proyectos internacionales de consultoría, marketing digital y soporte técnico, lo que me dio experiencia en la resolución de problemas, trabajo en equipo y comunicación.
 
-⚡ Dato curioso: Cuando no estoy programando, me encontrarás **pintando, jugando al Genshin y tratando de aprender japonés, coreano y chino viendo doramas y anime**.
+🌱 Ahora estoy dando el salto hacia la programación, aplicando esa experiencia a proyectos web colaborativos.
+
+⚡ Dato curioso: Cuando no estoy programando, me encontrarás pintando, jugando al Genshin y tratando de aprender japonés, coreano y chino viendo doramas y anime.
 
 
 ## 🌐 Socials:
