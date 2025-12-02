@@ -1,16 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&pause=1000&color=C778F7&width=435&height=60&lines=Hello%2C+it's+me...+%F0%9F%98%8A;Hola!+++%F0%9F%91%8B+)](https://git.io/typing-svg)
 
 # 💫 About Me:
-💻 Soy Desarrolladora Web en formación en Factoría F5, actualmente en un bootcamp intensivo donde estoy aprendiendo **HTML, CSS, JavaScript, React, Node.js y bases de datos**.
+💻 Hola, soy Olga, desarrolladora web en transición desde el mundo del marketing y la consultoría. Me formé en Factoría F5, donde trabajé con **React, Node/Express, MySQL, HTML, CSS y JavaScript.**.
 
 🔍 Me interesa especialmente el desarrollo Frontend y cómo combinar la tecnología con la creatividad para construir experiencias web accesibles, usables y visualmente atractivas.
 
-✨ Antes de lanzarme al mundo tech, trabajé en proyectos internacionales de consultoría, marketing digital y soporte técnico, lo que me dio experiencia en la resolución de problemas, trabajo en equipo y comunicación.
+✨ Antes de lanzarme al mundo tech, trabajé en proyectos internacionales de consultoría, marketing digital y soporte técnico, lo que me dio experiencia en la resolución de problemas, trabajo en equipo y comunicación. Vengo de coordinar proyectos y trabajar con equipos diversos, y ahora quiero aplicar esa visión más humana y transversal al desarrollo.
 
-🌱 Ahora estoy dando el salto hacia la programación, aplicando esa experiencia a proyectos web colaborativos.
+🌱 Ahora que estoy dando el salto hacia la programación, busco un entorno donde pueda seguir creciendo como desarrolladora, aprender de personas con experiencia y participar en proyectos que aporten valor real.
 
-⚡ Dato curioso: Cuando no estoy programando, me encontrarás pintando, jugando al Genshin y tratando de aprender japonés, coreano y chino viendo doramas y anime.
-
+🎨 Dato curioso: Cuando no estoy programando, me encontrarás pintando, leyendo thrillers, jugando al Genshin y tratando de aprender japonés, coreano y chino viendo doramas y anime.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/@olgalura.bsky.social) 
